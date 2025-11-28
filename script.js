@@ -6,6 +6,6 @@ function insert_Row() {
 	let newData1=newRow.insertCell(0);
 	let newData2=newRow.insertCell(1);
 
-	newData1.textContent="New Cell 1";
-	newData2.textContent="New Cell 2";
+	newData1.textContent="New Cell1";
+	newData2.textContent="New Cell2";
 }
